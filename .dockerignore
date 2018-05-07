@@ -1,0 +1,4 @@
+# Ignore docs and Makefile
+LICENCE
+README.md
+Makefile
